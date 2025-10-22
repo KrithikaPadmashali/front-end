@@ -1,6 +1,6 @@
-# Credexa Frontend (module-by-module scaffold)
+# Credexa Frontend 
 
-This repository contains a module-by-module React frontend scaffold for the Credexa UI shown in the attachments.
+This repository contains a module-by-module React frontend scaffold for the Credexa UI .
 
 Modules implemented (placeholders & working components):
 - Login & Signup (auth simulated in-memory)
